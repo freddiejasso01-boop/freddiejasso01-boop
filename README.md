@@ -1,5 +1,5 @@
 <h1>Hi, I'm Alfredo though you can call me freddy! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> Projects:</h2>
 <h3>Contact information</h3>
 - 
 )
